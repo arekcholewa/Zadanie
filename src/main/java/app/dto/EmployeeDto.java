@@ -11,7 +11,7 @@ import java.io.Serializable;
 @Setter
 @Data
 @NoArgsConstructor
-public class EmployeeDto implements Serializable{
+public class EmployeeDto{
 
 
     private Long id;
